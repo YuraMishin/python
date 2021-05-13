@@ -1,0 +1,1 @@
+# Simple password checker using API https://api.pwnedpasswords.com/range/
